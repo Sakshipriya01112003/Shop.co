@@ -13,3 +13,6 @@ Optional: Google Fonts, Bootstrap
 ✅ Semantic HTML5 : Includes accessible and SEO-friendly tags like `<header>`, `<nav>`, `<main>`, and `<footer>`  
 🎨 Modern Design: Clean UI with intuitive navigation and product-focused layout  
 ⚡ Performance-Oriented: Lean styles and optimized assets for fast loading
+
+
+live Preview - https://sakshipriya01112003.github.io/Shop.co/
